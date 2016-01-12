@@ -1,0 +1,65 @@
+body {
+    background-color: #298db2;
+}
+
+h1 {
+    color: #ffeb00;
+    font-family: Courier;
+    text-shadow: 6px 6px black;
+    text-decoration:underline
+}
+
+p {
+    color: black;
+}
+
+h2 {
+    color: white;
+}
+
+
+td {
+    text-align: left;
+}
+
+img {
+    border-radius: 0%;
+    resize: both;
+    overflow: auto;
+    width: 500px;
+    height: auto;
+}
+
+.headernav {
+    text-align: center;
+    background-color:#770505;
+	padding:10px;
+   	line-height:1px;
+   	border-radius: 100px; 
+
+}
+
+.loginlogout {
+    text-align: right;
+    font-size: 20px;
+    color: black;
+    text-align: right;
+    padding: 10px;
+    border-radius: 15px;
+    
+}
+
+.mainpage {
+    text-align: left;
+}
+
+.footer {
+    text-align: center;
+    background-color: #770505;
+    border-radius: 30px;
+    color: whitesmoke
+}
+
+.images {
+    text-align: center;
+}
